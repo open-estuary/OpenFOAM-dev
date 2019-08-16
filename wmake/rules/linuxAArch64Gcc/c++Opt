@@ -1,0 +1,2 @@
+c++DBUG     =
+c++OPT      = -march=armv8-a -mtune=cortex-a57 -O3 -floop-optimize -falign-loops -falign-labels -falign-functions -falign-jumps
